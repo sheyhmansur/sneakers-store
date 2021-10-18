@@ -1,6 +1,6 @@
 # Интернет магазин кроссовок на React.js
 
-## Стек технологий:
+## Стек:
 - React
 - React Router
 - React Context
