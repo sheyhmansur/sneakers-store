@@ -4,8 +4,8 @@
 - React
 - React Router
 - React Context
-- react-slick
 - SASS / CSS Modules
+- Swiper.js
 - Axios
 - mockAPI (для хранения данных)
 
