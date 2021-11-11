@@ -3,8 +3,16 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   // background-color: #e7f6ff; //#e7f6ff
-  background: -webkit-linear-gradient(45deg, #bf46d2, #8da2ff, #b0dafc);
-  background: linear-gradient(45deg, #bf46d2, #8da2ff, #b0dafc);
+  // background: -webkit-linear-gradient(45deg, #bf46d2, #8da2ff, #b0dafc);
+  // background: linear-gradient(451deg, #bf46d2, #8da2ff, #b0dafc);
+  background: #2980b9; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #2980b9,
+    #6dd5fa,
+    #ffffff
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
 }
 
 * {
