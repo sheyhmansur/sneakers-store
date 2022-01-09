@@ -6,13 +6,8 @@ body {
   // background: -webkit-linear-gradient(45deg, #bf46d2, #8da2ff, #b0dafc);
   // background: linear-gradient(451deg, #bf46d2, #8da2ff, #b0dafc);
   background: #2980b9; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to right,
-    #2980b9,
-    #6dd5fa,
-    #ffffff
-  ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
+  background: -webkit-linear-gradient(to right, #2980b9, #6dd5fa, #ffffff); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #2980b9, #6dd5fa, #ffffff);
 }
 
 * {
