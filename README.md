@@ -16,5 +16,5 @@
 - Axios
 - MockAPI (для хранения данных)
 
-[<h3> DEMO </h3>](https://sneakers-store-eta.vercel.app/)
+[<h3> DEMO </h3>](https://sneakers-store-orcin.vercel.app/)
 
